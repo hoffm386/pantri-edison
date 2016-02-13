@@ -1,0 +1,16 @@
+{
+  "name": "blankapp",
+  "description": "",
+  "version": "0.0.0",
+  "main": "main.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "cylon": "^1.1.0",
+    "cylon-api-http": "^0.4.0",
+    "cylon-gpio": "^0.26.0",
+    "cylon-i2c": "^0.22.0",
+    "cylon-intel-iot": "^0.7.0"
+  }
+}

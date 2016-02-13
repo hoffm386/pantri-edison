@@ -1,0 +1,60 @@
+{
+  "project": {
+    "projectSettingsVersion": "2.0.0",
+    "initialAutoPluginCount": 0,
+    "currentBuildConfiguration": "Android",
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "Pantri2.xdk": {
+        "previousModTime": 1455392761000,
+        "modified": 1455392761000,
+        "seen": true,
+        "name": "Pantri2.xdk"
+      },
+      "Pantri2.xdke": {
+        "previousModTime": 1455399616000,
+        "modified": 1455399616000,
+        "seen": true,
+        "name": "Pantri2.xdke"
+      },
+      "README.md": {
+        "previousModTime": 1455392761000,
+        "modified": 1455392761000,
+        "seen": true,
+        "name": "README.md"
+      },
+      "icon.png": {
+        "previousModTime": 1455392761000,
+        "modified": 1455392761000,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "main.js": {
+        "previousModTime": 1455399901000,
+        "modified": 1455399901000,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1455393703000,
+        "modified": 1455393703000,
+        "seen": true,
+        "name": "package.json"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1455392761000,
+        "modified": 1455392761000,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      }
+    },
+    "boardFileStatus": {
+      "main.js": {
+        "previousModTime": 1455399910287
+      }
+    }
+  }
+}
